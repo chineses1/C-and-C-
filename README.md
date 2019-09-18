@@ -1,2 +1,1 @@
-# C-and-C-
-C/C++ source code
+部分程序代码源自网络。
